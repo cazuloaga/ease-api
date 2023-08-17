@@ -9,7 +9,7 @@
 # Documentation here: https://yarnpkg.com/features/zero-installs
 !.yarn/cache
 #.pnp.*
-
+/.yarn
 /node_modules
 /.pnp
 .pnp.js
