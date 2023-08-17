@@ -34,6 +34,7 @@
     "@types/node": "^20.4.10",
     "@types/pino": "^7.0.5",
     "@types/supertest": "^2.0.12",
+    "@typescript-eslint/eslint-plugin": "latest",
     "jest": "^29.6.2",
     "supertest": "^6.3.3",
     "ts-jest": "^29.1.1",
